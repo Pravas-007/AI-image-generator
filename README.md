@@ -18,18 +18,18 @@ Uses Stability AI's powerful image generation API
 
 **Requirements**
 Install these Python libraries before running:
--requests
--pillow
--tk
+- requests
+- pillow
+- tk
 
 **How to Run**
 
--Clone or Download this repository
--Add your **Stability AI API key** inside `image_generator.py`:
+- Clone or Download this repository
+- Add your **Stability AI API key** inside `image_generator.py`:
    headers = {
        "Authorization": "Bearer YOUR_API_KEY_HERE",
    }
--Run the script:
+- Run the script:
 python image_generator.py
 
 **Author:-**
