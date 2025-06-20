@@ -34,5 +34,5 @@ python image_generator.py
 
 **Author:-**
 Pravas Nayak
-Made for learning & exploring Generative AI 🧠
-Note:This project was developed as part of a learning journey into AI and Python. It demonstrates how to interact with real-world AI APIs using Python GUI frameworks.
+- Made for learning & exploring Generative AI 🧠
+- Note:This project was developed as part of a learning journey into AI and Python. It demonstrates how to interact with real-world AI APIs using Python GUI frameworks.
