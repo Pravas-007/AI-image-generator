@@ -26,9 +26,9 @@ Install these Python libraries before running:
 
 - Clone or Download this repository
 - Add your **Stability AI API key** inside `image_generator.py`:
-   headers = {
+   'headers = {
        "Authorization": "Bearer YOUR_API_KEY_HERE",
-   }
+   }'
 - Run the script:
 python image_generator.py
 
